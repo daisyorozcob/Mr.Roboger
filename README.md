@@ -1,3 +1,46 @@
+# _Roboger Project_
+
+#### By _**Daisy Orozco**_
+
+#### _{Brief description of application}_
+
+## Technologies Used
+
+* JavaScript
+* VS Code 
+* HTML 
+* CSS
+* Git 
+
+## Description
+
+
+
+## Setup/Installation Requirements
+
+* _This is a great place_
+* _to list setup instructions_
+* _in a simple_
+* _easy-to-understand_
+* _format_
+
+
+
+## Known Bugs
+
+* No known bugs
+
+## License
+
+MIT
+
+Copyright (c) 2023_Daisy Orozco
+
+
+
+
+
+
 Test: "It should return an array of numbers from 0 to the user's inputted number."
 Code: const result1 = beepBoop(0);
 Expected Output: 0
