@@ -13,3 +13,7 @@ Expected output: 0, Beep,2,3,4,5,6,7,8,9, "beep"
 Test: "It should return 'Mr. Roboger only wants positivity in its neighborhood. Please enter a positive number. Boop.' if user inputs a negative number"
 Code: roboGreeting(-5)
 Expected Output: "Mr. Roboger only wants positivity in its neighborhood. Please enter a positive number. Boop."
+
+Test: "It will return array with each number as a string (so that the indexOf method can be used in the future)"
+Code: roboGreeting(5)
+Expected Output "0","1","2","3","4","5"
