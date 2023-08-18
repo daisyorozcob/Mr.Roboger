@@ -25,7 +25,7 @@ function applySubstitutions(number) {
   
   module.exports = { applySubstitutions, generateNumberList };
 
-  // Function to update the DOM with the generated results
+// UI Logic
 function displayResults(resultList) {
     resultContainer.innerHTML = '';
   
@@ -36,7 +36,6 @@ function displayResults(resultList) {
     }
   }
   
-  // Event listener for the generate button
   generateButton.addEventListener('click', () => {
     const inputNumber = parseInt(numberInput.value);
     if (!isNaN(inputNumber)) {
