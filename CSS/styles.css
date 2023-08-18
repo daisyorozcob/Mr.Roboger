@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+
+  h1 {
+    margin-top: 20px;
+  }
+  
+
+  #numberInput, #generateButton {
+    margin-top: 10px;
+  }
+  
+
+  #resultContainer {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
