@@ -1,8 +1,9 @@
 body {
     text-align: center;
-    font-family: Arial, sans-serif;
+    color:rgb(100, 100, 100);
     margin: 0;
     padding: 0;
+    background-color: bisque;
   }
   
 
